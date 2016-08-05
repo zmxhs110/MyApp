@@ -32,12 +32,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\chat_from_bg_selector.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_copy_link_selector.xml",
@@ -72,12 +72,12 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_quickoption_selector.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_item_background.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\drawer_menu_item_background.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\drawer_menu_icon_setting.xml",
@@ -88,12 +88,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\teamlist_item_background.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\bg_edittext.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_edittext.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\bg_edittext.xml"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_small_white_selector.xml",
@@ -144,24 +144,24 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\quickoption_icon_note_selector.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_opt_more_selector.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_item_opt_more_selector.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_qq_selector.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\share_icon_qq_selector.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_item_opt_more_selector.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_item_opt_more_selector.xml"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\share_icon_wechat_selector.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\share_icon_wechat_selector.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_text_to_tools_selector.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_opt_text_to_tools_selector.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_new.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\tab_icon_new.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_text_to_tools_selector.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_opt_text_to_tools_selector.xml"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\tweet_bg_parent_rounded_corner.xml",
@@ -172,12 +172,12 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\tweet_bg_parent_rounded_corner.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_text_selector.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\quickoption_icon_text_selector.xml"
-    },
-    {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\messages_left_bubble_selector.xml",
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\messages_left_bubble_selector.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\quickoption_icon_text_selector.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\quickoption_icon_text_selector.xml"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_icon_me.xml",
@@ -212,12 +212,12 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_holo.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\progress_medium_holo.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\comment_background.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\comment_background.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_medium_holo.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\progress_medium_holo.xml"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_radio_selector.xml",
@@ -256,12 +256,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\btn_del_selector.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emoji_selector.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_emoji_selector.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\pic_bg.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable\\pic_bg.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_emoji_selector.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable\\btn_emoji_selector.xml"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_opt_text_to_tools_selector.xml",

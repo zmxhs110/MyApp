@@ -8,12 +8,12 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",

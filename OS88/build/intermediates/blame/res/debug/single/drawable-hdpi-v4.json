@@ -1,11 +1,11 @@
 [
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cat.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\cat.png"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_46.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\smiley_46.png"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cat.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\cat.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\point_right.png",
@@ -16,12 +16,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\kissing_heart.png"
     },
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\first_quarter_moon_with_face.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\first_quarter_moon_with_face.png"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\platform.png",
@@ -112,32 +112,32 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\triumph.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hushed.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\hushed.png"
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_4.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\smiley_4.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_4.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\smiley_4.png"
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hushed.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\hushed.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_hands.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\open_hands.png"
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_small_green_pressed.9.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\btn_small_green_pressed.9.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pig2.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\pig2.png"
     },
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_small_green_pressed.9.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\btn_small_green_pressed.9.png"
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\open_hands.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\open_hands.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green_heart.png",
@@ -152,12 +152,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\sparkling_heart.png"
     },
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ear_of_rice.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\ear_of_rice.png"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\quick_option_voice_over.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\quick_option_voice_over.png"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ear_of_rice.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\ear_of_rice.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_29.png",
@@ -352,12 +352,12 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\frog.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunny.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\sunny.png"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line.9.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\line.9.png"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunny.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\sunny.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sheep.png",
@@ -384,16 +384,16 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\whale.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth_asia.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\earth_asia.png"
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pray.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\pray.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_53.png",
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\smiley_53.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pray.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\pray.png"
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\earth_asia.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\earth_asia.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliding_tab_strip_background.9.png",
@@ -424,16 +424,16 @@
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\facepunch.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_69.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\smiley_69.png"
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_37.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\smiley_37.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\compose_toolbar_mention_normal.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\compose_toolbar_mention_normal.png"
     },
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_37.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\smiley_37.png"
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_69.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\smiley_69.png"
     },
     {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_48_inner_holo.png",
@@ -532,12 +532,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\audio1.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dizzy.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\dizzy.png"
-    },
-    {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cherry_blossom.png",
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\cherry_blossom.png"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dizzy.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\dizzy.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\angry.png",
@@ -576,12 +576,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\ant.png"
     },
     {
-        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
-        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_explore_samecity.png",
         "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\drawable-hdpi\\icon_explore_samecity.png"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\smiley_95.png",
@@ -592,12 +592,12 @@
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\princess.png"
     },
     {
-        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\koala.png",
-        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\koala.png"
-    },
-    {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\kiss.png",
         "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\kiss.png"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\koala.png",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\drawable-hdpi\\koala.png"
     },
     {
         "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\panda_face.png",
