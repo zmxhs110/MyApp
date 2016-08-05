@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bottom_out.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\anim_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_bottom.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bottom_out.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\anim_bottom_out.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\footer_menu_slide_in.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\footer_menu_slide_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\footer_menu_slide_out.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\footer_menu_slide_out.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\quick_option_close.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\quick_option_close.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_bottom.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\out_to_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\quick_option_close.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\quick_option_close.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_top.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\out_to_top.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\footer_menu_slide_out.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\footer_menu_slide_out.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\footer_menu_slide_in.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\footer_menu_slide_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\out_to_top.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\out_to_top.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\audio_animations.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\audio_animations.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_top.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\in_from_top.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bottom_in.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\anim_bottom_in.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\dialog_exit.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_top.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\in_from_top.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_bottom.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\StudioProjects\\MyApp\\OS88\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_enter.xml",
+        "source": "E:\\StudioProjects\\MyApp\\OS88\\src\\main\\res\\anim\\dialog_enter.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\in_from_bottom.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\anim_bottom_in.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\anim_bottom_in.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\audio_animations.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\audio_animations.xml"
+    },
+    {
+        "merged": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\build\\intermediates\\res\\merged\\debug\\anim\\dialog_exit.xml",
+        "source": "F:\\workspaces\\workspace_AndroidStudio\\OSChina\\OSChinaClient88\\src\\main\\res\\anim\\dialog_exit.xml"
+    }
+]
